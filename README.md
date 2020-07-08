@@ -2,6 +2,8 @@
 
 [官方文档](https://hyb1996.github.io/AutoJs-Docs/#/)
 
+[另一份文档](https://easydoc.xyz/doc/25791054/uw2FUUiw/3bEzXb4y)
+
 ## 准备工作
 
 1、手机安装auto.js
